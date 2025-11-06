@@ -34,7 +34,7 @@ h1{
 .btn-explore {
     border-width: 2;
     border-style: solid;
-    border-image: linear-gradient(to right,#D10ED1 , #10A3DA) 1;
+    border-image: linear-gradient(to right,#D10ED1 , #10a410DA) 1;
     background-color: transparent;
     color: white;
     padding: 5px 10px;
